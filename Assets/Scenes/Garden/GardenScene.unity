@@ -92,8 +92,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 4c499845f447c484fb847ad545b279b9, type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 0d0c0e1fb12268e4094fa8a75a88fbd1, type: 2}
+  m_LightingDataAsset: {fileID: 0}
+  m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -5728,6 +5728,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8196,6 +8200,10 @@ PrefabInstance:
     - target: {fileID: 8385982042137898116, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15909,6 +15917,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 87142414}
     m_Modifications:
+    - target: {fileID: 844918919622395188, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2921625138699678336, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_Name
       value: LanternStone_01_Prefab (2)
@@ -17241,6 +17253,10 @@ PrefabInstance:
     - target: {fileID: 8385982042137898116, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18853,6 +18869,10 @@ PrefabInstance:
     - target: {fileID: 8385982042137898116, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 7.241
+      objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 419545790092185805, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
@@ -22450,7 +22470,7 @@ Light:
   serializedVersion: 11
   m_Type: 1
   m_Color: {r: 1, g: 0.76362115, b: 0.48490566, a: 1}
-  m_Intensity: 2.5
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -22755,6 +22775,10 @@ PrefabInstance:
     - target: {fileID: 8385982042137898116, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23962,6 +23986,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 87142414}
     m_Modifications:
+    - target: {fileID: 844918919622395188, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2921625138699678336, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_Name
       value: LanternStone_01_Prefab (3)
@@ -24017,6 +24045,10 @@ PrefabInstance:
     - target: {fileID: 6614022729291184415, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9056249284700800750, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8762647674606602420, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
@@ -27065,6 +27097,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27321,6 +27357,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 87142414}
     m_Modifications:
+    - target: {fileID: 844918919622395188, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2921625138699678336, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_Name
       value: LanternStone_01_Prefab (8)
@@ -27372,6 +27412,10 @@ PrefabInstance:
     - target: {fileID: 6614022729291184415, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9056249284700800750, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8762647674606602420, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
@@ -27802,6 +27846,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 87142414}
     m_Modifications:
+    - target: {fileID: 844918919622395188, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2921625138699678336, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_Name
       value: LanternStone_01_Prefab (1)
@@ -27853,6 +27901,10 @@ PrefabInstance:
     - target: {fileID: 6614022729291184415, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9056249284700800750, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8762647674606602420, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
@@ -31715,13 +31767,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1569291825}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.70030755, y: -0.241299, z: 0.61257356, w: -0.27585816}
+  m_LocalRotation: {x: -0.08107465, y: -0.78183985, z: 0.5946754, w: -0.1688624}
   m_LocalPosition: {x: 13.16395, y: 3.6628356, z: -0.24808502}
   m_LocalScale: {x: 1.1237003, y: 1.1236999, z: 1.1237}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1022195582}
-  m_LocalEulerAnglesHint: {x: 137, y: -277.646, z: 0}
+  m_LocalEulerAnglesHint: {x: 106.811005, y: -395.41998, z: -194.837}
 --- !u!114 &1569291827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31756,7 +31808,7 @@ Light:
   serializedVersion: 11
   m_Type: 1
   m_Color: {r: 0.8392157, g: 0.9708499, b: 1, a: 1}
-  m_Intensity: 0.4
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -31795,7 +31847,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -34988,6 +35040,10 @@ PrefabInstance:
     - target: {fileID: 8385982042137898116, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38263,6 +38319,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8756958230921627973, guid: 3c38aedbdc88dd645bb0b31cb43f2308, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38773,7 +38833,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4836203871698184204, guid: 68a211ec6954acd4c8d8ca375ba6a94c, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4836203872302332103, guid: 68a211ec6954acd4c8d8ca375ba6a94c, type: 3}
       propertyPath: TargetFps
@@ -42922,6 +42982,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 87142414}
     m_Modifications:
+    - target: {fileID: 844918919622395188, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2921625138699678336, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_Name
       value: LanternStone_01_Prefab (5)
@@ -42973,6 +43037,10 @@ PrefabInstance:
     - target: {fileID: 6614022729291184415, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9056249284700800750, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8762647674606602420, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
@@ -43515,6 +43583,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 87142414}
     m_Modifications:
+    - target: {fileID: 844918919622395188, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2921625138699678336, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_Name
       value: LanternStone_01_Prefab (6)
@@ -43570,6 +43642,10 @@ PrefabInstance:
     - target: {fileID: 6614022729291184415, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9056249284700800750, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8762647674606602420, guid: f3465f68f6d568d498c6301e743eae85, type: 3}
